@@ -1,4 +1,17 @@
 # Quora_Ques_Pair_Similarity_Problem
+<h1><font color='cyan'> Real World Problem </font></h1>
+
+<h2><font color='Orange'>Description</font></h2>
+<pre>
+<p>Quora is a place to gain and share kknowledge-about anything.t’s a  
+platform to ask questions and connect with people who contribute unique
+insights and quality answers. This empowers people to learn from each
+other and to better understand the world.</p></pre>
+
+<p>
+Over 100 million people visit Quora every month, so it's no surprise that many people ask similarly worded questions. Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question, and make writers feel they need to answer multiple versions of the same question. Quora values canonical questions because they provide a better experience to active seekers and writers, and offer more value to both of these groups in the long term.</p>
+
+>Credits:- Kaggle
 
 <h1><font color='cyan'>Machine Learning Problem</font></h1>
 
